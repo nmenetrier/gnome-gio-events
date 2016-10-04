@@ -1,10 +1,7 @@
 Gnome GIO events test
-=====================
+---------------------
 
 Basic gnome event catch test
-----------------------------
 
-Resources
----------
-
-* `Documentation <https://developer.gnome.org/>`_
+Resources:
+* `Gnome developper documentation <https://developer.gnome.org/>`_
